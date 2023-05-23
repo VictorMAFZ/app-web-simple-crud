@@ -1,0 +1,15 @@
+{
+  "name": "backend-node-crud",
+  "version": "1.0.0",
+  "description": "Backend para manejo de CRUD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VArcila",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.2.0"
+  }
+}
